@@ -16,3 +16,5 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+#git clone https://github.com/HoldOnBro/packages.git package/luci-app-adblock-plus
+git clone https://github.com/kiddin9/luci-app-dnsfilter.git package/luci-app-dnsfilter
